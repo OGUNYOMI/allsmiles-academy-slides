@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-01-03T16:14:26.314Z",
+  "generatedAt": "2026-01-03T16:25:41.616Z",
   "totalSlides": 5,
   "slidesWithIssues": 2,
   "totalViolations": 2,
   "reports": [
     {
-      "timestamp": "2026-01-03T16:14:22.838Z",
+      "timestamp": "2026-01-03T16:25:38.158Z",
       "slideConfig": {
         "width": 1280,
         "height": 720,
@@ -23,7 +23,7 @@
           "message": "Container has hidden overflow: 16px of content clipped by parent (scrollHeight: 560px > clientHeight: 544px, overflow: hidden)"
         }
       ],
-      "slideId": "17674568540736myl9t82nl3",
+      "slideId": "1767457529732r7gao27kl7c",
       "slideIndex": 3,
       "slideTitle": "Success Stories",
       "slideFile": "src/pages/slides/SuccessStoriesSlide.tsx",
@@ -60,7 +60,7 @@
       }
     },
     {
-      "timestamp": "2026-01-03T16:14:23.652Z",
+      "timestamp": "2026-01-03T16:25:38.992Z",
       "slideConfig": {
         "width": 1280,
         "height": 720,
@@ -78,7 +78,7 @@
           "message": "Container has hidden overflow: 136px of content clipped by parent (scrollHeight: 760px > clientHeight: 624px, overflow: hidden)"
         }
       ],
-      "slideId": "17674568540738ibuxmm78pa",
+      "slideId": "1767457529732juo8e91bkf",
       "slideIndex": 4,
       "slideTitle": "Enroll Today",
       "slideFile": "src/pages/slides/EnrollmentCTASlide.tsx",
